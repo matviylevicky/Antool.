@@ -1,0 +1,39 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: #1E252B;
+}
+.foter-link {
+    font-size: 22px;
+    color: rgba(255, 255, 255, 0.90);
+    font-weight: 600;
+}
+.footer-title {
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.90);
+    font-weight: 500;
+}
+.inf {
+    width: 260px;
+    color: rgba(255, 255, 255, 0.55);
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.footer-container {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    padding-top: 73px;
+    padding-bottom: 93px;
+}
+.footer-nav-title {
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 20px;
+    font-weight: 500;
+}
+.footer-nav-link {
+    color: rgba(255, 255, 255, 0.55);
+    font-size: 16px;
+    font-weight: 500;
+}
